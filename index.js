@@ -1,7 +1,8 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si, no es como si no tuvieras otra opcion jsjs c:')
+    alert('Sabia que ibas a decir que si, no es como si no tuvieras otra opcion jsjs c:
+          y obviamente en San carlos jsjs')
 });
 
 const noBtn = document.querySelector('#noBtn');
